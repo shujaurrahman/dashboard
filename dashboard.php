@@ -137,9 +137,10 @@ if (isset($_GET['delete'])) {
                             <table class="table table-hover">
                                 <thead>
                                     <tr>
-                                        <th>#</th>
+                                        <th>Id</th>
                                         <th>Name</th>
                                         <th>Email</th>
+                                        <th>Phone</th>
                                         <th>Message</th>
                                         <th>Date</th>
                                     </tr>

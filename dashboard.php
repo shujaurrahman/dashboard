@@ -113,7 +113,7 @@ if (isset($_GET['delete'])) {
             <button class="btn btn-sm btn-danger" type="submit"><i class="glyphicon glyphicon-trash"></i> Delete All Contacts</button>
         </form>
         <br>
-        <form action="backend/logout.php" method="post" style="display:inline;">
+        <form action="logout.php" method="post" style="display:inline;">
             <button class="btn btn-sm btn-warning" type="submit"><i class="glyphicon glyphicon-log-out"></i> Logout</button>
         </form>
     </div>

@@ -39,21 +39,17 @@ In the future, this dashboard will act as the **central hub** for all my web pro
 
 This dashboard is designed to provide flexibility and control over every web project I develop, offering a unified platform for administrative actions.
 
-## Getting Started
+## Run the project on your local server
 
 To run this project locally, clone the repository and install the required dependencies.
 
-\```bash
+```bash
 git clone <repo-url>
 cd project-directory
-# Run the project on your local server
-\```
+```
 
 ## Contributions
 
 For contributions, feel free to open issues and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
